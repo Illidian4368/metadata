@@ -72,3 +72,15 @@
 ---
 
 `security/url-shorteners` → https://github.com/PeterDaveHello/url-shorteners
+
+---
+
+## Running the Python Script
+
+To run the Python script, use the following command:
+
+```powershell
+& 'C:\Users\patri\Documents\GitHub\metadata\.venv\Scripts\python.exe' 'C:\Users\patri\Documents\GitHub\metadata\script.py'
+```
+
+Note: Ensure you are running the correct `.py` file and not this `README.md` file.
